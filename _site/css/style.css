@@ -74,6 +74,8 @@ a:hover {
 .the_article .article_inner {
   padding-top: 24px;
   padding-bottom: 24px;
+  padding-left: 0px;
+  margin: auto;
 }
 .the_article ul { list-style: square; }
 .the_article ol { list-style: decimal; }
