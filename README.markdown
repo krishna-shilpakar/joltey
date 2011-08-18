@@ -1,10 +1,13 @@
 <pre>
- _   __                   _
-| | / /        `_`      | |
-| |/ /  __ __  __ ____  | |____  .  .__    ________
-|   \   | '__| | |  __| | | __ \  | ___ \  | ___   |
-| |\ \  | |    | |___ \ | |   | | | |  | |  /  __  |
-|_| \_\ |_|    |_|____/ |_|   |_| |_|  |_| |_______|
+ _   __
+| | / /        `_`
+| |/ /  __ __  __ ____  __   __ .  .__    ________
+|   \   | '__| | |  __| \ \ | |  | ___ \  | ___   |
+| |\ \  | |    | |___ \  \ \| |  | |  | |  /  __  |
+|_| \_\ |_|    |_|____/    \  |  |_|  |_| |_______|
+                            | |
+                            | |
+                           / /
 
 
 </pre>
@@ -23,3 +26,4 @@
 * [jQuery](http://jquery.com/): MIT/GPL license
 * [Less Freamework 3](http://lessframework.com/): Creative Commons Attribution License
 * [HTML5 Boilerplate](http://html5boilerplate.com/): [The Unlicense](http://unlicense.org) (aka: public domain)
+
